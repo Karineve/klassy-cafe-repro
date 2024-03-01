@@ -1,0 +1,58 @@
+body {
+    background-color:pink;
+    color: black;
+    margin: 0px;
+}
+nav{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+
+header{
+    height: 700px;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+div.intro{
+    height: 700px;
+    width: 100%;
+    background-color: white;
+}
+
+div.terrasse{
+    height: 700px;
+    width: 100%;
+    background-color:  aquamarine;
+}
+
+div.menu{
+    height: 700px;
+    width: 100%;
+    background-color:  chartreuse;
+}
+
+div.chefs{
+    height: 700px;
+    width: 100%;
+    background-color: white;
+}
+
+div.reservation{
+    height: 700px;
+    width: 100%;
+    background-color: pink;
+}
+
+div.specials{
+    height: 700px;
+    width: 100%;
+    background-color: white
+}
+
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: pink;
+}
